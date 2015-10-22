@@ -1,0 +1,26 @@
+{
+  "name": "Later Dude",
+  "version": "0.0.2",
+  "manifest_version": 2,
+  "description": "Postpone to an appropriate time we will remind you",
+  "browser_action": {
+    "default_icon": "icons/icon19.png",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": [
+      "js/background.js",
+      "js/moment.min.js",
+      "js/common.js"
+    ],
+    "persistent": true
+  },
+  "permissions": [
+    "notifications",
+    "storage",
+    "tabs",
+    "activeTab", 
+    "alarms",
+    "<all_urls>"
+  ]
+}
