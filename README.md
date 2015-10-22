@@ -6,7 +6,7 @@ All the links are synced across all the google chrome browsers you are logged in
 
 Install the extension from [Chrome store] [chrome-store]
 
-![laterdude](https://github.com/laterdude/raw/master/screenshot_v0.0.2.png "laterdude")
+![laterdude](https://raw.githubusercontent.com/sancopanco/laterdude/master/screenshot_v0.0.2.png "laterdude")
 
 
 
